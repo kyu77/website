@@ -1,5 +1,5 @@
 <?php
-$mailTo = 'yourmail@yourmal.com';
+$mailTo = 'kyuyounp@gmail.com';
 $name = htmlspecialchars($_POST['idi_name']);
 $mailFrom = htmlspecialchars($_POST['idi_mail']);
 $subject = 'Website Feedback';
